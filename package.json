@@ -1,0 +1,30 @@
+{
+  "name": "web-app-security",
+  "version": "1.0.0",
+  "description": "web application security based on e-sport tournament organizator ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/sleniart.git"
+  },
+  "author": "Szymon Leniart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/sleniart/issues"
+  },
+  "homepage": "https://github.com/github.com/sleniart#readme",
+  "dependencies": {
+    "accesscontrol": "^2.2.1",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.9"
+  }
+}
